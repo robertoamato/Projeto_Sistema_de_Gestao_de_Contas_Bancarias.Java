@@ -1,5 +1,5 @@
 
-Aqui está um exemplo de README.md para o projeto de Sistema de Gestão de Contas Bancárias em Java, que pode ser postado no GitHub:
+
 
 Sistema de Gestão de Contas Bancárias
 Este projeto é um Sistema de Gestão de Contas Bancárias simples, desenvolvido em Java , que permite a criação e gerenciamento de contas correntes e contas de poupança. Ele oferece funcionalidades como depósito, saque, transferência entre contas e exibição de saldo. O projeto utiliza conceitos básicos de Programação Orientada a Objetos (POO) , como herança, encapsulamento e polimorfismo.
